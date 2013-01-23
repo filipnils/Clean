@@ -1,0 +1,4 @@
+Clean
+=====
+
+Theme for WordPress

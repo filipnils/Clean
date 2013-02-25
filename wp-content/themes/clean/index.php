@@ -11,7 +11,9 @@
 	</head>
 	<body>
 		<div class="container">
+
 			<div class="header">
+				
 				<h1><img src="<?php print IMAGES; ?>/logo.png" alt="Clean"></h1>
 
 				<div class="searchbar">

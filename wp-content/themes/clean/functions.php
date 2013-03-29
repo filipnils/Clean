@@ -23,4 +23,6 @@
             ) );
       }
 
+      require_once('business-manager.php');
+
       ?>

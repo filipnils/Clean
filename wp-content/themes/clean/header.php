@@ -13,7 +13,7 @@
 		<div class="container">
 
 			<div class="header">
-				<h1><img src="<?php print IMAGES; ?>/logo.png" alt="Clean"></h1>
+				<h1><a href="index.php"><img src="<?php print IMAGES; ?>/logo.png" alt="Clean"></a></h1>
 
 				<?php get_search_form(); ?>
 
